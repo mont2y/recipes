@@ -2,4 +2,4 @@ dolma:
 1-rise
 3-1-meat
 3-onion
-4-and the another things
+4-and the another thing
